@@ -1,3 +1,16 @@
+
+
+### Título de la propuesta o idea
+
+**Resumen de la propuesta**
+
+**Dimensión afectada (ej. Epistemic Capacity / Algorithmic Control)**
+
+**Motivación**
+
+**Posible contribución**
+
+**Datos o referencias**
 ---
 
 ## 📌 ¿Qué es MAEDIA?
